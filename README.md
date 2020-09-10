@@ -7,23 +7,35 @@ References to Public Study Content organized by subjects
 ### CDK
 
 - Name: CDK
+- Description: AWS Cloud Development Kit workshop
 - Type: Workshop
 - Level: Advanced
-- Address: https://cdkworkshop.com
+- URL: https://cdkworkshop.com
 
 ### DevOps
 
 #### devtools-workshop
 
 - Name: devtools-workshop
-- Type: Fast track Workshop using AWS Tools: Code* + Fargate
+- Description: Fast track Workshop using AWS Tools: Code* + Fargate
+- Type: Workshop
 - Level: Basic/Intermediate
-- Address: https://github.com/hgbueno/devtools-workshop
+- URL: https://github.com/hgbueno/devtools-workshop
 
 #### EKS
 
 - Name: EKS
-- Type: Complete Workshop for EKS (Managed Kubernetes).
+- Description: Complete Workshop for EKS (Managed Kubernetes).
+- Type: Workshop
 - Level: Basic/Intermediate/Advanced
-- Address: https://www.eksworkshop.com/
+- URL: https://www.eksworkshop.com/
 
+## Cassandra
+
+### DataStax Workshops
+
+- Name: Cassandra Workshop Series
+- Description: Series of workshops with Cassandra (+K8s, cluster management, etc)
+- Type: Workshop
+- Level: Basic/Intermediate/Advanced
+- URL: https://github.com/DataStax-Academy/cassandra-workshop-series
