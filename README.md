@@ -2,6 +2,9 @@
 
 References to Public Study Content organized by subjects
 
+___
+___
+
 ## AWS
 
 ### CDK
@@ -22,6 +25,8 @@ References to Public Study Content organized by subjects
 - Level: Basic/Intermediate
 - URL: https://github.com/hgbueno/devtools-workshop
 
+## Containers
+
 #### EKS
 
 - Name: EKS
@@ -38,6 +43,21 @@ References to Public Study Content organized by subjects
 - Level: Basic/Intermediate/Advanced
 - URL: http://containers-immersionday.workshop.aws/
 - Skills: Containers, EKS, ECS, CloudWatch Container Insights, AppMesh
+
+## Serverless
+
+### Wild Rydes Serverless Workshops
+
+- Name: Wild Rydes Serverless Workshops
+- URL: https://github.com/aws-samples/aws-serverless-workshops
+
+### Lambda - Zombie Microservices Workshop (deprecated)
+
+- Name: Zombie Microservices Workshop: Lab Guide
+- URL: https://github.com/aws-samples/aws-lambda-zombie-workshop
+
+___
+___
 
 ## Cassandra
 
