@@ -7,6 +7,8 @@ ___
 
 ## AWS
 
+Highlighted of AWS Workshops, most of them is available [in Github](https://github.com/aws-samples?q=workshop&type=&language=)
+
 ### CDK
 
 - Name: CDK
