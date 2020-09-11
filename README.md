@@ -9,6 +9,15 @@ ___
 
 Highlighted of AWS Workshops, most of them is available [in Github](https://github.com/aws-samples?q=workshop&type=&language=)
 
+### EC2
+
+### EC2 Spot
+
+- Name: AMAZON EC2 SPOT INSTANCES WORKSHOPS
+- Type: Workshop
+- Level: Basic/Intermediate/Advanced
+- URL: https://ec2spotworkshops.com/
+
 ### CDK
 
 - Name: CDK
