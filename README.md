@@ -30,6 +30,15 @@ References to Public Study Content organized by subjects
 - Level: Basic/Intermediate/Advanced
 - URL: https://www.eksworkshop.com/
 
+#### Container Immersion Workshop
+
+- Name: Container Immersion Workshop
+- Description: 
+- Type: Workshop Immersion
+- Level: Basic/Intermediate/Advanced
+- URL: http://containers-immersionday.workshop.aws/
+- Skills: Containers, EKS, ECS, CloudWatch Container Insights, AppMesh
+
 ## Cassandra
 
 ### DataStax Workshops
