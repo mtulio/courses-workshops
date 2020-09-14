@@ -57,6 +57,12 @@ Highlighted of AWS Workshops, most of them is available [in Github](https://gith
 
 ## Serverless
 
+### SERVERLESS APPLICATION CATALOG WORKSHOP
+
+- Name: SERVERLESS APPLICATION CATALOG WORKSHOP
+- Description: Complete serverless workshop to implement a CI/CD pipeline on AWS for Serverless workloads
+- URL: https://application-catalog.serverlessworkshops.io/
+
 ### Wild Rydes Serverless Workshops
 
 - Name: Wild Rydes Serverless Workshops
