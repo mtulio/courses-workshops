@@ -73,6 +73,11 @@ Highlighted of AWS Workshops, most of them is available [in Github](https://gith
 - Name: Zombie Microservices Workshop: Lab Guide
 - URL: https://github.com/aws-samples/aws-lambda-zombie-workshop
 
+### SaaS Factory
+
+- Name: AWS SaaS Factory Monolith to Serverless SaaS Workshop
+- URL: https://github.com/aws-samples/aws-saas-factory-serverless-workshop
+
 ___
 ___
 
