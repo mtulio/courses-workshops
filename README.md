@@ -90,3 +90,13 @@ ___
 - Type: Workshop
 - Level: Basic/Intermediate/Advanced
 - URL: https://github.com/DataStax-Academy/cassandra-workshop-series
+
+___
+___
+
+## Development
+
+### Red Hat - Go
+
+- Name: Go language course by RedHat
+- URL: https://github.com/RedHatOfficial/GoCourse
