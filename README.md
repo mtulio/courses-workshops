@@ -96,7 +96,13 @@ ___
 
 ## Development
 
-### Red Hat - Go
+### Red Hat - Go Course
 
 - Name: Go language course by RedHat
 - URL: https://github.com/RedHatOfficial/GoCourse
+
+### GopherCon - GO Kubernetes Workshop
+
+- Name: Go Kubernetes Workshop
+- Description: This is a workshop given at GopherCon Brazil 2018. It is a hands on workshop that aims to teach how to extend a Kubernetes cluster building go controllers.
+- URL: https://github.com/andrestc/go-kubernetes-workshop
