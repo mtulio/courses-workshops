@@ -1,5 +1,9 @@
 # courses-workshops
 
+**This page was moved to [here](https://github.com/mtulio/mtulio.labs/blob/master/docs/learning/workshops.md), will deprecated soon.**
+
+___
+
 References to Public Study Content organized by subjects
 
 ___
