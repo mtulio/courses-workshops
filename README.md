@@ -78,6 +78,13 @@ Highlighted of AWS Workshops, most of them is available [in Github](https://gith
 - Name: AWS SaaS Factory Monolith to Serverless SaaS Workshop
 - URL: https://github.com/aws-samples/aws-saas-factory-serverless-workshop
 
+## Management
+
+### Control Tower
+
+- Name: AWS Control Tower Workshops
+- URL: https://controltower.aws-management.tools/
+
 ___
 ___
 
